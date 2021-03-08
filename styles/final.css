@@ -127,15 +127,22 @@ aside img {
   padding: 2px 7.7px;
   text-decoration: none;
 }
+a:link {
+    color:rgb(170, 109, 34);
+}
 a:hover {
     background-color: aqua;
 }
 .luff, .zoro,.uso, .sanji,.chop,.rob,.bro{
     height: 300px;
 }
+/* fixes nami if commented out
 .nam, .frank, .jin{
     height: 300px;
     width: 190px;
+} */
+.frank {
+    height: 300px;
 }
 #email {
     margin-left: 1.5em;
